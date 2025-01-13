@@ -1,6 +1,11 @@
-# OEPL_HA-Center-multiline-text-on-y
+# Center text lines vertical
+
+Centers lines of text around a specified Y coordinate using the multiline function.<br>
+Three examples below.
 
 ![alt text](center_y.png "Title")
+
+## The code
 
 ```yaml
 alias: list center on y
