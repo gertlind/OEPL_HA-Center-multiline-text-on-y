@@ -1,5 +1,6 @@
-# OEPL_HA-Center-multiline-text-on-y!
-```
+# OEPL_HA-Center-multiline-text-on-y
+
+```yaml
 alias: list center on y
 description: Test
 triggers:
