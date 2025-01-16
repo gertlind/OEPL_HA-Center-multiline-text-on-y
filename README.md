@@ -44,7 +44,7 @@ actions:
           start_y: "{{y_mid_list - offset[lines]|int}}"
           offset_y: "{{f_size}}"
           x: "{{mid_x}}"
-          size: 25
+          size: "{{f_size}}"
           color: black
     target:
       device_id:
